@@ -1,2 +1,13 @@
-# obsidian-template-vault
-A template Obsidian vault with essential plugins and configurations.
+# Obsidian Template Vault
+
+## Theme
+
+Obsidian Nord
+
+## Community Plugins
+
++ Advanced Tables
++ Editor Syntax Highlight
++ Excalidraw
++ Mind Map
++ Outliner
