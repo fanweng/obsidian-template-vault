@@ -1,1 +1,1 @@
-Save resources like documentation, screenshots, drawings, etc.
+This folder saves resources like documentation, screenshots, drawings, etc.
