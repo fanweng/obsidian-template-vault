@@ -1,3 +1,7 @@
+---
+tags: property-tag
+---
+
 # Obsidian Template Vault
 
 **Table of Contents**

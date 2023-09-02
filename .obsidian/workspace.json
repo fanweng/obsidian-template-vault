@@ -128,13 +128,23 @@
                 "file": "README.md"
               }
             }
+          },
+          {
+            "id": "3cd8cb1642c22885",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "README.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 332.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b7342e3411d4cef",
+  "active": "47c7d87129edf59e",
   "lastOpenFiles": [
     "assets/assets.md",
     "README.md",
